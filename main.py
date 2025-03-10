@@ -14,6 +14,7 @@ product4 = Product("Tastatura", 5000, 20)
 manager.add_product(product1)
 manager.add_product(product2)
 manager.add_product(product3)
+manager.add_product(product4)
 
 # Prikaz proizvoda i ukupne vrednosti
 print(manager.display_products())
