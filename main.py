@@ -20,7 +20,7 @@ print(manager.display_products())
 print(f"Ukupna vrednost inventara: {manager.total_value()} RSD")
 
 # Prikaz dostupnih proizvoda
-manager.show_products()
+manager.display_products()
 
 # Kreiranje instance korpe
 cart = Cart()
@@ -28,7 +28,7 @@ cart = Cart()
 # Dodavanje nasumičnih proizvoda u korpu
 cart.add_to_cart(manager.products[0])
 cart.add_to_cart(manager.products[2])
-cart.add_to_cart(manager.products[3])
+cart.add_to_cart(manager.products[1])
 
 # Prikaz korpe
 cart.show_cart()
