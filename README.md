@@ -17,4 +17,4 @@ Ovo je Python projekat za upravljanje proizvodima i korpom kupca u online prodav
 1. Instalirati Python.
 2. Klonirati repozitorijum:
    ```sh
-   git clone https://github.com/tvoj_username/online_sales_analysis.git
+   git clone https://github.com/Daniloo777/online_sales_analysis.git
